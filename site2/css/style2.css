@@ -73,6 +73,7 @@
       .col-lg-4 {
       	float:left;
       	width: 33%;
+      	margin-left: 0;
       }
 	}
 
