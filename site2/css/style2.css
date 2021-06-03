@@ -80,10 +80,12 @@
 	@media screen and (min-width: 992px) and (max-width: 1199px) {
 	  .col-md-6 {
 	  	width: 50%;
+	  	margin-left: 0;
 	  	float:left;
 	  }
 	  .col-md-12 {
 	  	width:100%;
+	  	margin-left: 0;
 	  	clear:both;
 	  }
 	}
